@@ -11,9 +11,9 @@ const SecondSection = () => {
             alt="Travel Destination"
             className="rounded-lg w-full h-full object-cover"
           />
-          <div className="absolute top-0 left-0 p-12 z-20 transform transition-transform duration-300 group-hover:translate-x-4">
+          <div className="absolute top-0 left-0 p-12 z-20 transform transition-transform duration-500 group-hover:translate-x-6">
             <div className="flex gap-4">
-              <div className="w-1 h-32 bg-orange-500 self-center"></div>
+              <div className="w-1 h-28 bg-orange-500 self-center"></div>
               <div className="space-y-2">
                 <p className="text-white text-xs">INTERNATIONAL TRIP</p>
                 <p className="text-white text-3xl font-normal">BEST OF</p>
