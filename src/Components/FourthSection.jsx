@@ -6,7 +6,7 @@ const FourthSection = () => {
   return (
     <>
       <div className="pt-8 bg-gray-200 pb-8">
-        <p className="flex justify-center font-bold text-2xl">
+        <p className="flex justify-center font-bold text-3xl">
           What <span className="text-orange-500 mx-2">Clients</span>Tell About
           Us
         </p>

@@ -67,7 +67,7 @@ const ThirdSection = () => {
 
   return (
     <div className="m-4">
-      <p className="mt-8 flex justify-center font-bold text-2xl">
+      <p className="mt-8 flex justify-center font-bold text-3xl">
         Plan An <span className="text-orange-500 mx-2">Unforgettable</span>{" "}
         Weekend Gateway From Rajkot
       </p>

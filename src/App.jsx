@@ -1,3 +1,4 @@
+import FifthSection from "./Components/FifthSection";
 import FirstSection from "./Components/FirstSection";
 import FourthSection from "./Components/FourthSection";
 import Navbar from "./Components/Navbar";
@@ -14,6 +15,7 @@ function App() {
       <SecondSection />
       <ThirdSection />
       <FourthSection />
+      <FifthSection />
     </>
   );
 }
