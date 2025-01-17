@@ -28,7 +28,7 @@ const Navbar = () => {
           />
           <FontAwesomeIcon
             icon={faMicrophone}
-            className="absolute right-2 top-1/2 -translate-y-1/2 text-white cursor-pointer bg-black p-1 rounded-full"
+            className="absolute right-2 top-1/2 px-2 -translate-y-1/2 text-white cursor-pointer bg-black p-1 rounded-full"
           />
         </div>
         <div className="flex items-center space-x-10 mr-60">

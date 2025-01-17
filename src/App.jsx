@@ -1,13 +1,15 @@
-import Navbar from "./Components/Navbar"
+import FirstSection from "./Components/FirstSection";
+import Navbar from "./Components/Navbar";
+import SecondNavbar from "./Components/SecondNavbar";
 
 function App() {
-  
-
   return (
     <>
-      <Navbar/>
+      <Navbar />
+      <SecondNavbar />
+      <FirstSection />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
