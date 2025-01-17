@@ -6,7 +6,7 @@ const SeventhSection = () => {
       <div className="bg-[#001A26]">
         <div className="flex pt-10 space-x-32 px-44">
           <div className="">
-            <p className="text-white text-3xl">LOGO LOGO</p>
+            <p className="text-white text-2xl">LOGO LOGO</p>
             <p className="text-white font-semibold text-md mt-10">
               Your Gateway To The World
             </p>
