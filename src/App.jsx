@@ -1,6 +1,7 @@
 import FirstSection from "./Components/FirstSection";
 import Navbar from "./Components/Navbar";
 import SecondNavbar from "./Components/SecondNavbar";
+import SecondSection from "./Components/SecondSection";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <SecondNavbar />
       <FirstSection />
+      <SecondSection />
     </>
   );
 }
